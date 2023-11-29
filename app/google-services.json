@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329995175400",
+    "project_id": "festa-1234",
+    "storage_bucket": "festa-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329995175400:android:40d82e10a9b96e46bc905d",
+        "android_client_info": {
+          "package_name": "com.chetan.festa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329995175400-98c43sbi896pr9a5ov7d391s414qkvoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chetan.festa",
+            "certificate_hash": "fae77e3262c6540f7ae5b2aed1e7dbe5faaee78f"
+          }
+        },
+        {
+          "client_id": "329995175400-kc19d92g18jaq2362rq8mkjrkciomegi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSYUFM97Lo1BjbZSvpEPStiEZtZZl-74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329995175400-kc19d92g18jaq2362rq8mkjrkciomegi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
